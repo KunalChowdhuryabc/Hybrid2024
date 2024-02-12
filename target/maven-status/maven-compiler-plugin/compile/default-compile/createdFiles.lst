@@ -1,0 +1,11 @@
+com\ots\dataProvider\ExcelReader.class
+com\ots\pages\LoginPage.class
+com\ots\pages\HomePage.class
+com\ots\helper\Utility.class
+com\ots\dataProvider\ConfigReader.class
+com\ots\samples\ThreadLocalDemo.class
+com\ots\base\BaseClass.class
+com\ots\listeners\ReportListener.class
+com\ots\listeners\ExtentManager.class
+com\ots\dataProvider\CustomDataProvider.class
+com\ots\factory\BrowserFactory.class
