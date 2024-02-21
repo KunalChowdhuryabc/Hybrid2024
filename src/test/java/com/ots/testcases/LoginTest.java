@@ -20,6 +20,6 @@ public class LoginTest extends BaseClass
 		
 		AssertJUnit.assertTrue(home.isManageOptionDisplayed());
 		
-	}
+	}//test
 	
 }
